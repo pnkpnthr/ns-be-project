@@ -6,7 +6,7 @@ This repository contains javascript files that the function of the following fil
 
 # Init project
 
-This project uses Jest for executing unit tests so please set up the following steps below:
+This project uses Jest for executing unit tests so please set up the following steps below when you downloaded the project:
 
 Installation Jest guide: https://jestjs.io/docs/getting-started
 
